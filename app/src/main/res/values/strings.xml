@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+
+    <string
+        name="opening"
+        >Opening hours:</string>
+    <string
+        name="hours"
+        >Mon-Sat 9:00-20:00</string>
+    <string
+        name="adres"
+        >Belwederska 23, 00-761 Warszawa Poland</string>
+
+    <string name="phone"
+        >567 678 890</string>
+
+</resources>
